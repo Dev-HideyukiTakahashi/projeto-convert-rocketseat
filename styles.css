@@ -5,7 +5,7 @@
 }
 
 :root {
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
 }
 
@@ -25,7 +25,7 @@ body {
   width: 100%;
   height: 100vh;
 
-  background-image: url("./img/bg.png");
+  background-image: url('./img/bg.png');
   background-size: contain;
 
   display: flex;
@@ -74,7 +74,7 @@ select {
   background-color: #0e0f25;
   padding: 1.25rem 1rem;
 
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
 }
 
@@ -83,7 +83,7 @@ select {
   -webkit-appearance: none;
   appearance: none;
 
-  background: url("./img/chevron-down.svg") no-repeat;
+  background: url('./img/chevron-down.svg') no-repeat;
   background-position: calc(100% - 0.75rem) center !important;
   background-color: #0e0f25;
 
@@ -112,7 +112,7 @@ button {
 
   color: #f1f2f6;
 
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
@@ -148,7 +148,7 @@ footer {
 footer span {
   color: #7d8dec;
   font-size: 1rem;
-  font-family: "IBM Plex Mono", monospace;
+  font-family: 'IBM Plex Mono', monospace;
   margin-bottom: 0.5rem;
   line-height: 1.25rem;
 }
